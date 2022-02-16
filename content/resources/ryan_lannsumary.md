@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource is a project file.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/hst-584j-magnetic-resonance-analytic-biochemical-and-imaging-techniques-spring-2006/b00bcab6a531da03252c93bc1baa2f1c_ryan_lannsumary.pdf
+file: /media/courses/hst-584j-magnetic-resonance-analytic-biochemical-and-imaging-techniques-spring-2006/b00bcab6a531da03252c93bc1baa2f1c_ryan_lannsumary.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: ryan_lannsumary.pdf
 uid: b00bcab6-a531-da03-252c-93bc1baa2f1c
