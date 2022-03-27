@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 625055a0-f536-5228-6f8b-c5fbb0201a98
 resourcetype: Document
 title: coursenotes.pdf
 uid: 924c7ccc-55e4-59ec-cbe0-f43d3ebc1a8f

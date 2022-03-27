@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: a90db1b2-3040-e1ef-6e1c-2b765b19290a
 resourcetype: Document
 title: ryan_lan_present.pdf
 uid: e318cb40-04ee-cf50-70ec-6179e9ae1e00

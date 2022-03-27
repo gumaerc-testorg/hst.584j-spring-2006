@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: a90db1b2-3040-e1ef-6e1c-2b765b19290a
 resourcetype: Document
 title: jinzhousummary.pdf
 uid: 053f9a36-92af-ad97-1ef3-6329c6b72ded
