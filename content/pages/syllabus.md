@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The syllabus section contains information about the sessions and its
+  topics, course requirements and reading.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: The reading section discusses about suggested textbooks, course notes,
+  relaxation paper, spin echo paper, image encoding notes, wedeen paper, history of
+  functional neuroimaging, fMRI encyclopedia, cautionary tales and small sample sizes.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -27,7 +30,7 @@ A classic, but very dense and not all that easy to read.
 Slichter, C. P. _Principles of Magnetic Resonance_. 3rd ed. New York, NY: Springer-Verlag, 1992. ISBN: 9780387501574.  
 Also a classic, a bit easier to read than Abragam.
 
-Course Notes ([PDF]({{< baseurl >}}/resources/coursenotes))
+Course Notes ({{% resource_link 924c7ccc-55e4-59ec-cbe0-f43d3ebc1a8f "PDF" %}})
 -----------------------------------------------------------
 
 Relaxation Paper
@@ -42,7 +45,7 @@ Spin Echo Paper
 Hahn, E. L. "Spin Echos." _Physical Review_ 80 (1950): 580-594.  
 The first paper to describe the spin echo phenomenon.
 
-Image Encoding Notes ([PDF]({{< baseurl >}}/resources/imageencoding))
+Image Encoding Notes ({{% resource_link 48c03af1-6122-e89e-e22f-a7a4a8820056 "PDF" %}})
 ---------------------------------------------------------------------
 
 Wedeen Paper
