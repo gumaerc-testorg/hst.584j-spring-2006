@@ -5,6 +5,7 @@ file: /courses/hst-584j-magnetic-resonance-analytic-biochemical-and-imaging-tech
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: jinzhousummary.pdf
 uid: 053f9a36-92af-ad97-1ef3-6329c6b72ded
 ---
 This resource is a project file.
-

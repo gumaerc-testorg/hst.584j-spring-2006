@@ -6,6 +6,7 @@ file: /courses/hst-584j-magnetic-resonance-analytic-biochemical-and-imaging-tech
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: assignment1.pdf
 uid: cb7a107e-b648-6683-5ec8-ca2afd25a96f
 ---
 This resource contains assignment 1 for this course which discusses about typical proton NMR imaging experiments.
-

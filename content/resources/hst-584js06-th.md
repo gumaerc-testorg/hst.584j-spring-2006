@@ -8,10 +8,10 @@ image_metadata:
   credit: ''
   image-alt: An MRI image of a human brain.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: hst-584js06-th.jpg
 uid: 1ffee1aa-e3d8-2795-dd1c-090774934ec6
 ---
 New image Upload
-

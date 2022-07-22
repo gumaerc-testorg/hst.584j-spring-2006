@@ -6,6 +6,7 @@ file: /courses/hst-584j-magnetic-resonance-analytic-biochemical-and-imaging-tech
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: assignment5.pdf
 uid: 9597f662-c09a-8a2c-3e1f-851ca0a49cee
 ---
 This resource contains assignment 5 for this course which discusses about inversion recovery pulse sequence.
-

@@ -6,6 +6,7 @@ file: /courses/hst-584j-magnetic-resonance-analytic-biochemical-and-imaging-tech
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: solutions4.pdf
 uid: 71dccd0d-ffa0-9a2c-1ea0-5423c4e92564
 ---
 This resource is the solution 4 for this course which discusses about shift theorem, Parseval?s theorem, convolution theorem and fourier integral theorem.
-

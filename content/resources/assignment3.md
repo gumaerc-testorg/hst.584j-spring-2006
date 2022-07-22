@@ -6,6 +6,7 @@ file: /courses/hst-584j-magnetic-resonance-analytic-biochemical-and-imaging-tech
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: assignment3.pdf
 uid: f5360bac-1477-9e42-89ac-a252f8f7cfa7
 ---
 This resource contains assignments 3 for this course which discusses about pulse sequence.
-

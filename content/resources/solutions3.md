@@ -5,6 +5,7 @@ file: /courses/hst-584j-magnetic-resonance-analytic-biochemical-and-imaging-tech
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: solutions3.pdf
 uid: 5eb3591a-d739-bf6e-2a67-3694464a8af1
 ---
 This resource is the solution 3 for this course.
-
