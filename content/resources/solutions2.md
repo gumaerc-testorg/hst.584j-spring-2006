@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource is the solution 2 for this course.
 file: /courses/hst-584j-magnetic-resonance-analytic-biochemical-and-imaging-techniques-spring-2006/30c18d18d6fe68a8a842de1ea2d104d3_solutions2.pdf
+file_size: 46437
 file_type: application/pdf
 learning_resource_types:
 - Assignments

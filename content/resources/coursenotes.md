@@ -4,6 +4,7 @@ description: This resource contains information about table of contents, acronym
   and symbols, introduction, basic NMR, relaxation, liquid spectroscopy, Fourier transform
   theorems and introduction to imaging.
 file: /courses/hst-584j-magnetic-resonance-analytic-biochemical-and-imaging-techniques-spring-2006/924c7ccc55e459eccbe0f43d3ebc1a8f_coursenotes.pdf
+file_size: 804386
 file_type: application/pdf
 learning_resource_types:
 - Readings
