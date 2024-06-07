@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains assignment 1 for this course which discusses about
   typical proton NMR imaging experiments.
 file: /courses/hst-584j-magnetic-resonance-analytic-biochemical-and-imaging-techniques-spring-2006/cb7a107eb64866835ec8ca2afd25a96f_assignment1.pdf
+file_size: 22194
 file_type: application/pdf
 learning_resource_types:
 - Assignments
