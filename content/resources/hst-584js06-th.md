@@ -2,6 +2,7 @@
 content_type: resource
 description: New image Upload
 file: /courses/hst-584j-magnetic-resonance-analytic-biochemical-and-imaging-techniques-spring-2006/1ffee1aae3d82795dd1c090774934ec6_hst-584js06-th.jpg
+file_size: 8360
 file_type: image/jpeg
 image_metadata:
   caption: An MRI image of a human brain. (Image courtesy of the A. A. Martinos Center.)
