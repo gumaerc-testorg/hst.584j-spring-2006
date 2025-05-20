@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a project file.
-file: /ol-ocw-studio-app/courses/hst-584j-magnetic-resonance-analytic-biochemical-and-imaging-techniques-spring-2006/e318cb4004eecf5070ec6179e9ae1e00_ryan_lan_present.pdf
+file: /courses/hst-584j-magnetic-resonance-analytic-biochemical-and-imaging-techniques-spring-2006/e318cb4004eecf5070ec6179e9ae1e00_ryan_lan_present.pdf
 file_size: 70784
 file_type: application/pdf
 learning_resource_types:

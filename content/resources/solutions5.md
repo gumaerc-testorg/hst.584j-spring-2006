@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains solution 5 for this course which based upon the
   topic 'standard IR sequence'.
-file: /ol-ocw-studio-app/courses/hst-584j-magnetic-resonance-analytic-biochemical-and-imaging-techniques-spring-2006/bf571b06d0e4047972e6890929217dbb_solutions5.pdf
+file: /courses/hst-584j-magnetic-resonance-analytic-biochemical-and-imaging-techniques-spring-2006/bf571b06d0e4047972e6890929217dbb_solutions5.pdf
 file_size: 59775
 file_type: application/pdf
 learning_resource_types:
