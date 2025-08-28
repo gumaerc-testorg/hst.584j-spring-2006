@@ -3,7 +3,7 @@ content_type: resource
 description: This file contains information about introduction, review of the basic
   NMR experiment, encoding basics, field gradients and slice selective excitation
   of a single plane through the body.
-file: /courses/hst-584j-magnetic-resonance-analytic-biochemical-and-imaging-techniques-spring-2006/48c03af16122e89ee22fa7a4a8820056_imageencoding.pdf
+file: /ol-ocw-studio-app/courses/hst-584j-magnetic-resonance-analytic-biochemical-and-imaging-techniques-spring-2006/48c03af16122e89ee22fa7a4a8820056_imageencoding.pdf
 file_size: 485191
 file_type: application/pdf
 learning_resource_types:
